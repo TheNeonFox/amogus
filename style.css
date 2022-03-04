@@ -1,0 +1,28 @@
+html {
+    background-color: black;
+    
+}
+#video {
+    right: 0;
+    bottom: 0;
+    max-width: 100vw;
+    max-height: 100vh;
+    position: fixed;
+    z-index: -1;
+
+
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+h6 {
+    color: red;
+    font-size: 20vw;
+    font-weight: bolder;
+    font-family: sans-serif;
+    margin: auto;
+}
